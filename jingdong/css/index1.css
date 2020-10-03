@@ -1,0 +1,317 @@
+
+.dapai{
+    width: 1200px;
+}
+.dapai .left{
+    float: left;
+    width: 200px;
+    border-left: 1px solid #c81623;
+}
+
+.dapai .left li{
+    height: 31px;
+    line-height: 31px;
+    transition: all 0.5s;
+    background-color: #c81623;
+}
+
+.dapai .left li a{
+    margin-left: 10px;
+    float: left;
+    font-size: 14px;
+    color: #fff;
+}
+.dapai .left li i{
+    float: right;
+    color: #fff;
+    
+}
+
+.dapai .left li:hover{
+    padding-left: 10px;
+    background-color: #fff;
+}
+.dapai .left li:hover a{
+    color: #c81623;
+}
+
+.dapai .middle{
+    float: left;
+    position: relative;
+    width: 721px;
+    height: 455px;
+    margin-top: 10px;
+    margin-left: 13px;
+    
+}
+.dapai .middle .l{
+    position: absolute;
+    height: 40px;
+    width: 25px;
+    line-height: 40px;
+    text-align: center;
+    top: 50%;
+    left: 0;
+    margin-top: -20px;
+    font-size: 16px;
+    color: #fff;
+    background-color: rgba(0, 0, 0, .3);
+}
+
+.dapai .middle .r{
+    position: absolute;
+    height: 40px;
+    width: 25px;
+    line-height: 40px;
+    text-align: center;
+    top: 50%;
+    right: 0;
+    margin-top: -20px;
+    font-size: 16px;
+    color: #fff;
+    background-color: rgba(0, 0, 0, .3);
+}
+
+
+.dapai .middle .l:hover,
+.dapai .middle .r:hover{
+    color:red;
+}
+
+.dapai .right{
+    float: right;
+    height: 369px;
+    width: 250px;
+    margin-top: 10px;
+    border: 1px solid #ddd;
+}
+
+.dapai .right .t{
+    height: 25px;
+    padding: 0 10px;
+    line-height: 25px;
+    border-bottom:1px dashed #ddd;
+}
+.dapai .right .t i{
+    font-size: 16px;
+}
+.dapai .right .t a{
+    float: right;
+}
+.dapai .right .m{
+    height: 130px;
+    border-bottom: 1px solid #ddd;
+}
+.dapai .right .m a{
+    display: inline-block;
+    height: 25px;
+    line-height: 25px;
+}
+.dapai .right .b{
+    height: 208px;
+}
+
+.dapai .right .b ul{
+    width: 253px;
+}
+.dapai .right .b li{
+    float: left;
+    width: 61.75px;
+    height: 70px;
+    border-right: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    overflow: hidden;
+}
+.dapai .right .b .huafei{
+    display: inline-block;
+    height: 60px;
+    width: 54.75px;
+    margin-top: 10px;
+    margin-left: 15px;
+    background: url(../img//icons.png) no-repeat;
+    background-position: -17px -16px;
+}
+
+.jijian{
+    position: relative;
+}
+.jian{
+    width: 13px;
+    height: 15px;
+
+    background: url(../img/jian.jpg) no-repeat;
+    position: absolute;
+    top: -10px;
+    right: 10px;
+}
+.dapai .right .b .jipiao
+{
+    display: inline-block;
+    height: 60px;
+    width: 54.75px;
+    margin-top: 10px;
+    margin-left: 15px;
+    background: url(../img//icons.png) no-repeat;
+    background-position: -78px -16px;
+}
+.dapai .huafei i,
+.dapai .jipiao i{
+    display: inline-block;
+    margin-top: 40px;
+    margin-right: 30px;
+}
+.dapai .xia{
+    float: right;
+    width: 251px;
+}
+.dapai .right .xia img{
+    margin-top: 8px;
+    width: 252px;
+}
+.dayt{
+    width: 1200px;
+    margin-top: 10px;
+    background-color: pink;
+}
+
+.dayt .r{
+    float: left;
+    width: 200px;
+    height: 163px;
+    background-color: #5c5251;
+    text-align: center;
+}
+.dayt .r img{
+    display: block;
+    margin-top: 30px;
+    margin-left: 71px;
+}
+.dayt .r i{
+    display: block;
+    font-size: 20px;
+    color: #fff;
+}
+.dayt .l{
+    float: left;
+    width: 1000px;
+    height: 163px;
+    background-color: #ebebeb;
+}
+.dayt .l li{
+    float: left;
+    width: 249px;
+    height: 145px;
+    border-right: 1px solid #ccc;
+    margin-top: 10px;
+    background: url(../upload/pic.jpg) no-repeat;
+}
+
+.jiayong{
+    /* 不设置高度，直接清除浮动即可 */
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
+
+.home{
+    height: 30px;
+    line-height: 30px;
+    border-bottom: 2px solid #c81623;
+
+}
+
+.home .jialogo{
+    float: left;
+    color: #c81623;
+}
+.remen{
+    float: right;
+    margin-right: 10px;
+}
+.remen li{
+    float: left;
+}
+.remen a{
+    display: inline-block;
+    width: 80px;
+    height: 14px;
+    line-height: 14px;
+    text-align: center;
+    border-left: 1px solid #5c5251;
+}
+.remen .qudiao{
+    border: 0;
+}
+
+.qumianTV{
+    float: left;
+    width: 210px;
+    height: 360px;
+    background-color: #f9f9f9;
+}
+.qumianTV .qum_ul{
+    width: 220px;
+}
+.qum_li{
+    float: left;
+}
+.qum_li a{
+    display: inline-block;
+    height: 34px;
+    width: 86px;
+    line-height: 34px;
+    margin-left: 12px;
+    text-align: center;
+    font-size: 13px;
+    border-bottom: 1px solid #ccc;
+
+}
+.qumianTV img{
+    margin: 10px 0 0 10px;
+}
+.shuihu{
+    float: left;
+    width: 329px;
+    height: 360px;
+    background-color: #12f3d2;
+}
+
+
+.big_jia .zhan{
+    float: right;
+    width: 661px;
+    
+}
+
+.zhanshi{
+    float: left;
+    width: 219px;
+    height: 360px;
+    border-left: 1px solid #ccc;
+}
+
+.zhanshi .man200{
+    border-bottom: 1px solid #ccc;
+}
+
+.zuobiank{
+    position: fixed;
+    width: 66px;
+    top:100px;
+    left: 50%;
+    margin-left: -676px;
+}
+
+.zuobiank a{
+    display: inline-block;
+    width: 66px;
+    height: 30px;
+    line-height: 30px;
+    text-align: center;
+    border-bottom: 1px solid #ccc;
+    background-color: #fff;
+}
+.zuobiank .redse{
+    background-color: #c81623;
+    color: #fff;
+}

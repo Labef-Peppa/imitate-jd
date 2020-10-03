@@ -1,0 +1,214 @@
+.lujing{
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+.lujing i{
+    display: inline-block;
+    margin:0 10px;
+}
+.sjpic{
+    float: left;
+    width: 400px;
+    height: 600px;
+
+}
+.pictop img{
+    border: 1px solid #ccc;
+}
+.picbotm{
+    height: 60px;
+    
+    text-align: center;
+    margin-top: 60px;
+}
+.picbotm img{
+    display: inline-block;
+    vertical-align: 0%;
+}
+.picbotm .picred{
+    border: 2px solid #b1191a;
+}
+.sjpic .picleft{
+    display: inline-block;
+    width: 22px;
+    height: 32px;
+    padding-top: 14px;
+    background: url(../img/arrow-prev.png) no-repeat;
+}
+.sjpic .picright{
+    display: inline-block;
+    width: 22px;
+    height: 32px;
+    padding-top: 14px;
+    background: url(../img/arrow-next.png) no-repeat;
+}
+.sjgouwu{
+    float: right;
+    width: 718px;
+    height: 600px;
+}
+.sjgouwu .huafei{
+    display: inline-block;
+    margin: 10px 0;
+}
+.d5299{
+    
+    height: 60px;
+    line-height: 60px;
+    padding-left: 10px;
+    padding-right: 20px;
+    background-color: #fee9eb;
+}
+.d5299 .i5299{
+    margin: -3px 10px 0 30px;
+    font-size: 24px;
+    color: #b1191a;
+}
+.cuxiao{
+    height: 60px;
+    padding-left: 10px;
+    line-height: 30px;
+    background-color: #fee9eb;
+}
+.cuxiao .jiagou{
+    margin-left: 30px;
+}
+.jiagou .jiared{
+    background-color: #b1191a;
+    color: #fff;
+}
+.zhichi{
+    padding-left: 10px;
+    margin: 20px 0;
+}
+.zhichi .zhichii{
+    padding-left: 30px;
+}
+.pcolor{
+    padding-left: 10px;
+    margin-bottom: 20px;
+}
+.pcolor i{
+    height: 40px;
+    line-height: 40px;
+    margin-right: 5px;
+}
+.pcolor .ayanse{
+    width: 81px;
+    height: 40px;
+    text-align: center;
+    line-height: 40px;
+    margin-right: 5px;
+    border: 1px solid #ededed;
+    background-color: #f7f7f7;
+}
+.pcolor .red{
+    border: 1px solid #b1191a;
+}
+.shuliang {
+    width: 50px;
+    height: 46px;
+    border: 1px solid #ccc;
+}
+.shulinput{
+    border: none;
+    height: 46px;
+    width: 33px;
+    text-align: center;
+}
+.gouwucar .shula{
+    border-left: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+    width: 15px;
+    height: 22px;
+    line-height: 22px;
+    text-align: center;
+}
+.gouwucar .ajian{
+    cursor: not-allowed;
+}
+.anniu .jiaru{
+    margin-left: 10px;
+    width: 142px;
+    height: 46px;
+    line-height: 46px;
+    text-align: center;
+    background-color: #b1191a;
+    color: #fff;
+    font-size: 18px;
+}
+.tuijian{
+    width: 208px;
+    border: 1px solid #ccc;
+}
+.jieshao{
+    width: 978px;
+    margin-bottom: 50px;
+}
+.tuijian .fenlei{
+    height: 31px;
+    width: 102px;
+    line-height: 33px;
+    border-right: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+    background-color: #f1f1f1;
+    text-align: center;
+}
+.tuijian .pinpai{
+    height: 33px;
+    width: 104px;
+    line-height: 33px;
+    text-align: center;
+    color: red;
+}
+.tuijian .shulie{
+    padding: 0 10px;
+}
+.tuijian .p19{
+    width: 188px;
+    border-bottom: 1px solid #ccc;
+}
+.p19 .i19{
+    display: inline-block;
+    height: 30px;
+    line-height: 30px;
+    font-weight: 700;
+}
+.p19 .a19{
+    display: inline-block;
+    width: 88px;
+    height: 26px;
+    line-height: 26px;
+    text-align: center;
+    margin: 10px 49px 10px;
+    border: 1px solid #ccc;
+
+}
+.jieshao .jietop{
+    width: 976px;
+    height: 39px;
+    background-color: #f1f1f1;
+    border: 1px solid #ccc;
+    margin-bottom: 30px;
+
+}
+.jietop button{
+    padding: 0 20px;
+    height: 39px;
+    line-height: 39px;
+    font-size: 10px;
+    border: none;
+    background: none;
+
+}
+.jietop .btnred{
+    background-color: #b1191a;
+    color: #fff;
+}
+.jiemiddle .xiangli{
+    margin: 6px 30px;
+
+}
+.chakan .chaa{
+    font-family: 'icomoon';
+}

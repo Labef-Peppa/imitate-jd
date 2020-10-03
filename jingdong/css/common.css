@@ -1,0 +1,256 @@
+.cut{
+    width: 100%;
+    background-color: #f3f4f5;
+}
+@font-face {
+    /*1. 这个字体名称要注意 icomoon*/
+    font-family: 'icomoon';
+    /*2. 一定要注意路径的问题 一定一定！！！！*/
+    src: url('../fonts/icomoon.eot?7kkyc2');
+    src: url('../fonts/icomoon.eot?7kkyc2#iefix') format('embedded-opentype'),
+        url('../fonts/icomoon.ttf?7kkyc2') format('truetype'),
+        url('../fonts/icomoon.woff?7kkyc2') format('woff'),
+        url('../fonts/icomoon.svg?7kkyc2#icomoon') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* 版心 */
+.w{
+    width: 1200px;
+    margin: 0 auto;
+}
+.top
+{
+    height: 30px;
+    line-height: 30px;
+}
+
+.login{
+    
+    float: left;
+}
+.login a{
+    display: inline-block;
+    font-size: 12px;
+}
+
+.login .zhuce{
+    color: #f55;
+}
+
+.login .zhuce:hover{
+    color: red;
+}
+
+.right{
+    float: right;
+}
+
+.right li{
+    display: inline-block;
+}
+
+.cut .right li a{
+    margin:0 10px;
+    font-family: 'icomoon';
+}
+
+.logo {
+    /* 子绝父相子绝父相子绝父相子绝父相子绝父相子绝父相！！！！！！ */
+    position: relative;
+    height: 130px;
+}
+
+.logo .left{
+    position: absolute;
+    top: 25px;
+    left: 60px;
+}
+.logo .left a{
+    display: inline-block;
+    width: 80px;
+    height: 107px;
+    background-color: #fff;
+    background: url(../img/jdlogo.jpg) no-repeat;
+}
+.logo .middle{
+    position: absolute;
+    top: 25px;
+    left: 320px;
+}
+
+.logo .middle .text{
+    float: left;
+    width: 435px;
+    height: 32px;
+    padding-left: 10px;
+    color: gray;
+    border: 2px solid #b1191a;
+}
+
+.logo .middle button{
+    float: left;
+    width: 82px;
+    height: 36px;
+    background-color: #b1191a;
+    /* 去掉按钮边框 */
+    border: 0;
+    color: #fff;
+}
+
+.logo .middle li{
+    float: left;
+}
+
+.logo .middle a{
+    display: inline-block;
+    margin-right: 20px;
+    margin-top: 5px;
+}
+
+.logo .right{
+    position: absolute;
+    right: 50px;
+    top: 25px;
+    width: 110px;
+    height: 30px;
+    line-height: 30px;
+    padding-left: 20px;
+    border: 1px solid #ddd;
+    background-color: #f3f4f5;
+}
+
+.logo .right i{
+    font-family: 'icomoon';
+    padding: 0 5px;
+    color: #b1191a;
+}
+
+.logo .right .num{
+    position: absolute;
+    height: 15px;
+    line-height: 15px;
+    background-color: #f0191a;
+    top: -5px;
+    left: 100px;;
+    color: #fff;
+    border-radius: 30px 30px 30px 0;
+}
+
+.one{
+    width: 100%;
+    height: 40px;
+    border-bottom: 2px solid #b1191a;
+}
+
+.all{
+    position: relative;
+    height: 40px;
+}
+
+.all .diversity{
+    position: absolute;
+    height: 39px;
+    width: 200px;
+    line-height: 40px;
+    text-align: center;
+    border-bottom: 1px solid #fff;
+    top: 0;
+    left: 0;
+    background-color: #b1191a;
+    
+}
+.diversity i{
+    font-size: 20px;
+    color: #fff;
+}
+
+.all .city{
+
+    position: absolute;
+    top: 0;
+    left: 200px;
+    height: 40px;
+    line-height: 40px;
+}
+
+.city li{
+    float: left;
+}
+
+.city li a{
+    margin-left: 30px;
+    display: inline-block;
+    width: 70px;
+    font-size: 16px;
+}
+
+.foot{
+    width: 100%;
+    height: 500px;
+    background-color: #f5f5f5;
+}
+.zheng{
+    width: 1200px;
+    height: 79px;
+    border-bottom: 1px solid #ccc;
+}
+.zheng li{
+    float: left;
+    width: 240px;
+    height: 79px;
+}
+
+.zheng .baozhang{
+    float: left;
+    margin-top: 10px;
+    margin-left: 20px;
+    width: 50px;
+    height: 50px;
+    background: url(../img/icons.png);
+    background-position: -253px -3px;
+}
+
+.zheng .fapiao{
+    margin-top: 18px;
+    margin-left: 10px;
+    float: left;
+}
+.zheng .cheche{
+    float: left;
+    margin-top: 10px;
+    margin-left: 20px;
+    width: 50px;
+    height: 50px;
+    background: url(../img/icons.png);
+    background-position: -254px -54px;
+}
+
+.foot .gouwu{
+    height: 150px;
+    margin-top: 30px;
+    border-bottom: 1px solid #ccc;
+}
+.foot .gouwu .lilili{
+    float: left;
+    width: 120px;
+    height: 150px;
+    padding-left: 30px;
+    padding-right: 50px;
+}
+.foot .gouwu .erweima{
+    text-align: center;
+}
+
+.dizhi{
+    text-align: center;
+    margin-bottom: 100px;
+}
+.dizhi i{
+    display: block;
+}
+.dizhi div{
+    height: 20px;
+    margin: 20px 0;
+}

@@ -1,0 +1,148 @@
+.logo .left2{
+    position: absolute;
+    border-left: 1px solid #b1191a;
+    padding-left: 20px;
+    top: 98px;
+    left: 145px;
+}
+.logo .left2 a{
+    display: inline-block;
+    width: 56px;
+    height: 26px;
+    background-color: #fff;
+    background: url(../upload/sk.png) no-repeat;
+}
+.miaosha li{
+    float: left;   
+}
+.miaosha li a{
+    display: inline-block;
+    height: 30px;
+    line-height: 30px;
+    text-align: center;
+    font-size: 14px;
+    font-weight: 700;
+    margin: 0 25px;
+    font-family: 'icomoon';
+}
+.miaosha .tehui{
+    color: black;
+}
+.miaosha .tehui:hover{
+    color: red;
+}
+.nvxie{
+    width: 1200px;
+    height: 121px;
+    margin-bottom: 20px;
+    background: url(../upload/bg_03.png) no-repeat;
+}
+.shouj ul{
+    width: 1216px;
+}
+
+.shouj .xuanx{
+    float: left;
+    width: 291px;
+    height: 460px;
+    margin-right: 11px;
+    border: 1px solid #fff;
+    margin-bottom: 15px;
+}
+.xuanx:hover{
+    border: 1px solid #b1191a;
+}
+
+.xuanx .apple{
+    display: inline-block;
+    width: 283px;
+    padding: 0 4px;
+    height: 347px;
+    font-size: 14px;
+}
+.xuanx .d6088{
+    height: 30px;
+
+}
+.d6088 .i6088{
+    font-size: 22px;
+    color: #b1191a;
+}
+.d6088 .i6988{
+    font-size: 14px;
+    text-decoration: line-through;
+    font-weight: 700;
+}
+.xuanx .shou87{
+    height: 30px;
+    margin-bottom: 2px;
+}
+.shou87 i{
+    display: inline-block;
+}
+.shou87 .bar{
+    display: inline-block;
+    vertical-align: middle;
+    width: 130px;
+    height: 10px;
+    border: 1px solid #b1191a;
+    margin: 0 5px;
+    border-radius: 5px;
+}
+.bar .bar-1{
+    width: 87%;
+    height: 10px;
+    background: #b1191a;
+}
+.qianggou a{
+    display: inline-block;
+    height: 50px;
+    width: 291px;
+    line-height: 50px;
+    font-size: 20px;
+    border-top: 1px solid #b1191a;
+    background-color: #b1191a;
+    text-align: center;
+    color: #fff;
+}
+.qianggou a:hover{
+    color: red;
+}
+
+.yema{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+    
+}
+.yema a{
+    display: inline-block;
+    height: 40px;
+    line-height: 40px;
+    padding:0 20px;
+}
+.yema .biana{
+    background-color: #f5f5f5;
+    border: 1px solid #ccc;
+}
+.yema .dijiye{
+    display: inline-block;
+    height: 40px;
+    width: 45px;
+    text-align: center;
+    border: 1px solid #ccc;
+    transition: all .5s;
+}
+.yema .dijiye:focus{
+    width: 80px;
+    border: 1px solid #b1191a;
+}
+.yema .queding{
+    display: inline-block;
+    
+    height: 42px;
+    width: 50px;
+    line-height: 40px;
+    background-color: #f5f5f5;
+    border: 1px solid #ccc;
+}

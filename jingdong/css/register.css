@@ -1,0 +1,92 @@
+.logo{
+    height: 110px;
+    border-bottom: 2px solid #b1191a;
+}
+.xinyonghu{
+
+    margin-top: 20px;
+    border: 1px solid #ccc;
+}
+.zhuce{
+    background-color: #ececec;
+    height: 40px;
+    line-height: 40px;
+    padding: 0 10px;
+}
+.zhuce .ilogo{
+    font-size: 18px;
+}
+.shuru ul{
+    margin-top: 40px;
+    text-align: center;
+}
+.shuru li{
+    height: 50px;
+    line-height: 40px;
+    
+}
+.shuru .ired{
+    display: inline-block;
+    height: 16px;
+    line-height: 16px;
+    width: 30px;
+    margin:0 5px;
+    background-color: red;
+    color: #fff;
+}
+.shuru .iorange{
+    display: inline-block;
+    height: 16px;
+    line-height: 16px;
+    width: 30px;
+    margin:0 5px;
+    background-color: orange;
+    color: #fff;
+}
+.shuru .igreen{
+    display: inline-block;
+    height: 16px;
+    line-height: 16px;
+    width: 30px;
+    margin:0 5px;
+    background-color: #40b83f;
+    color: #fff;
+}
+.shuru li input{
+    height: 30px;
+    width: 238px;
+    margin: 0 15px;
+    border: 1px solid #ccc;
+}
+.shuru .li1{
+    margin-left: 50px;
+}
+.shuru .li2{
+    margin-left: -181px;
+}
+.shuru .li3{
+    margin-left: -58px;
+}
+.shuru .li4{
+    margin-left: -50px;
+}
+.shuru .li5{
+    margin-left: -58px;
+}
+.tongyi{
+    padding-left: 420px;
+}
+
+.shuru .wancheng{
+    margin-left: 450px;
+    margin-top: 50px;
+    margin-bottom: 100px;
+    display: inline-block;
+    height: 40px;
+    width: 200px;
+    line-height: 40px;
+    text-align: center;
+    background-color: #b1191a;
+    color: #fff;
+    font-size: 15px;
+}
